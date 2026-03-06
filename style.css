@@ -98,6 +98,15 @@ h5 {
     cursor: pointer;
 }
 
+#copyright {
+    margin-top: 50px;
+    padding: 20px;
+    font-size: 14px;
+    color: #666;
+    border-top: 1px solid #ccc;
+    text-align: center;
+}
+
 #reset:hover {
     background: darkred;
 }
