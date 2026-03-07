@@ -10,7 +10,7 @@ My first HTML project. The game is in progress, but for a short development time
 
 ## Project status
 - Work in progress
-- Work
+- Works
 
 ## Requirements
 - Browser (Like Edge, Yandex, Chrome and etc.).
