@@ -1,7 +1,7 @@
 # Created by Vladimir Games
 # SIMULATOR "VEDRO"
 
-My first HTML project. The game is not fully functional yet, but for a short development time I think it's a good result.
+My first HTML project. The game is not fully functional yet (but it works), but for a short development time I think it's a good result.
 
 ## Features
 - Simple HTML structure
