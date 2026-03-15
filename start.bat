@@ -41,7 +41,7 @@ timeout /t 1 /nobreak >nul
 echo [4/4] Done!
 echo.
 echo ========================================
-echo    © 2026 Vladimir Games. All rights reserved.
+echo    © 2026 Vladimir Codes. All rights reserved.
 echo ========================================
 timeout /t 3 /nobreak >nul
 exit
